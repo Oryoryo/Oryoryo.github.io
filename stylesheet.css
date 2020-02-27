@@ -1,0 +1,71 @@
+
+ul{
+    list-style: none;
+}
+header {
+    background-color: rgb(52, 117, 9);
+    color: whitesmoke;
+    height: 90px;
+}
+.header-logo {
+    font-size: 30px;
+    float: left;
+    margin: 23px 30px 0 30px;
+    background-color: blueviolet;
+}
+.header-list li{
+    float: left;
+    margin: 37px 30px 0 30px;
+    background-color: coral;
+}
+
+.top-wrapper {
+    height: 200px;
+    background-color: olivedrab;
+    
+}
+.top-text {
+    margin: 0px 80px 20px 40px;
+    background-color: blanchedalmond
+}
+h1{
+    font-size: 60px;
+    margin: 0%;
+}
+span{
+    color: coral;
+}
+
+.content-wrapper{
+    height: 534.638px;
+}
+.roadbike {
+    width: 100%;
+    height: 100%
+}
+
+footer {
+    background-color: cornflowerblue;
+    color: cornsilk;
+    height: 75px;
+}
+.footer-wrapper{
+    padding: 5px;
+}
+.footer-logo{
+    float: left;
+    font-weight: bold;
+    font-size: 30px;
+}
+.footer-list{
+    float: right;
+    font-size: 10px;
+    background-color: lightcoral;   
+}
+.footer-list ul{
+    padding: 0%;
+    margin: 0%;
+}
+.footer-list li{
+    padding: 3px;
+}
